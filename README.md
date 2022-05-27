@@ -1,9 +1,10 @@
 ## Hello World 👋
 
 I am a software engineer located in Madrid, Spain
-- 🔭 Working on multiple backend projects using c# and python (basics) 
-- 🌱 Learning design patterns
-- Starting an iOS development portfolio
+<br>
+- Looking for an iOS develop challenge
+- Working on multiple projects using swift, c# and python 
+- Learning design patterns
 <br>
 
 ### Connect with me
